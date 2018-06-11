@@ -157,6 +157,7 @@ body,ul {
 }
 .news .inner h2 {
   position: relative;
+  padding: 10px;
   float: left;
   margin-bottom: 10px;
 }
