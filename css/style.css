@@ -34,7 +34,6 @@ body,ul {
   position: absolute;
   top: 60px;
   left: 130px;
-  font-family: sans-serif;
   padding: 5px;
 }
 .mainnav ul li {
@@ -97,7 +96,7 @@ body,ul {
 .section1 p {
   position: absolute;
   top: 450px;
-  font: normal small-caps bold xx-large sans-serif;
+  font: normal small-caps bold xx-large;
   margin-left: 20px;
   color: white;
   cursor: pointer;
@@ -107,7 +106,7 @@ body,ul {
   top: 525px;
   margin-left: 20px;
   color: white;
-  font: normal normal bold large sans-serif;
+  font: normal normal bold large;
   cursor: pointer;
 }
 /****************/
@@ -138,8 +137,8 @@ body,ul {
   text-decoration: none;
   font-size: 23px;
 }
-.news .inner h2 a:hover {
-  color: red;
+.inner:hover h2 a {
+    color: red;
 }
 .news .inner {
   width: 30%;
