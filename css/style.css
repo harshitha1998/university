@@ -155,14 +155,13 @@ body,ul {
   margin: 0 5%;
 }
 .news .inner h2 {
-  position: relative;
   padding: 10px;
   float: left;
-  margin-bottom: 10px;
+  margin: 0px;
 }
 .news .inner p {
-  position: relative;
   padding: 10px;
+  margin: 0;
 }
 /***************/
 /*event section*/
