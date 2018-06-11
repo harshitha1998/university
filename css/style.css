@@ -138,9 +138,6 @@ body,ul {
   text-decoration: none;
   font-size: 23px;
 }
-.news .inner h2 a:hover {
-  color: red;
-}
 .news .inner {
   width: 30%;
   float: left;
