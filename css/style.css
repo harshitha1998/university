@@ -137,7 +137,7 @@ body,ul {
   text-decoration: none;
   font-size: 23px;
 }
-.inner:hover h2 a {
+.inner h2 a:hover {
     color: red;
 }
 .news .inner {
