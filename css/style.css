@@ -161,9 +161,6 @@ body,ul {
   float: left;
   margin-bottom: 10px;
 }
-.news .inner h2:hover {
-  color: red;
-}
 .news .inner p {
   position: relative;
   padding: 10px;
