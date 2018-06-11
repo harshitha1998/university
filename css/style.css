@@ -96,7 +96,7 @@ body,ul {
 .section1 p {
   position: absolute;
   top: 450px;
-  font: normal small-caps bold xx-large;
+  font: normal small-caps bold xx-large serif;
   margin-left: 20px;
   color: white;
   cursor: pointer;
@@ -106,7 +106,7 @@ body,ul {
   top: 525px;
   margin-left: 20px;
   color: white;
-  font: normal normal bold large;
+  font: normal normal bold large serif;
   cursor: pointer;
 }
 /****************/
