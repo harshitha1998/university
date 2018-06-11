@@ -140,7 +140,6 @@ body,ul {
 }
 .news .inner h2 a:hover {
   color: red;
-  cursor: pointer;
 }
 .news .inner {
   width: 30%;
