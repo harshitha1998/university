@@ -161,6 +161,7 @@ body,ul {
   margin-left: 3%;
   margin-right: 2%;
   float: left;
+  margin-bottom: 10px;
 }
 .news .inner p {
   position: relative;
