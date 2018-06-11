@@ -255,6 +255,7 @@ body,ul {
 .discover .inner h2 {
   font-size: 22px;
   padding: 10px;
+  margin-bottom: 0;
 }
 .discover .inner p {
   font-size: 16px;
