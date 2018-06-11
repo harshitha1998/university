@@ -260,6 +260,7 @@ body,ul {
 .discover .inner p {
   font-size: 16px;
   padding: 10px;
+  margin-top: 0;
 }
 .discover .inner h2 a {
   color: black;
